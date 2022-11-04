@@ -1,5 +1,5 @@
 const imagens = document.querySelectorAll(".slide");
-const setaVoltar = document.getElementById("Seta-voltar");
+const setaVoltar = document.getElementById("seta-voltar");
 const setaAvancar = document.getElementById("seta-avancar");
 
 let imagemAtual = 0;
