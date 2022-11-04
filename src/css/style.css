@@ -9,8 +9,7 @@ body{
 .imagens-carrossel {
     position: relative; 
     width: 1000px;
-    height: 500px; 
-    background-color: aqua;
+    height: 500px;
     display: flex;
     align-items: center;
     box-shadow: 6px 6px 6px 6px rgba(0, 0, 0, 0.2);
